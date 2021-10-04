@@ -6,6 +6,8 @@ from bubblesort_code import bubble_sort
 root = Tk()
 root.title(' Bubble Sort Algorithm Visualiser')
 root.geometry("750x600")
+root.minsize(750,600)
+root.maxsize(750,600)
 root.config(bg='magenta')
 
 select_algorithm = StringVar()
