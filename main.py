@@ -4,7 +4,7 @@ import random
 from bubblesort_code import bubble_sort
 
 root = Tk()
-root.title(' Sorting Algorithm Visualiser')
+root.title(' Bubble Sort Algorithm Visualiser')
 root.geometry("750x600")
 root.config(bg='magenta')
 
